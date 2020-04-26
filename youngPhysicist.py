@@ -1,3 +1,4 @@
+#Young Physicist
 num = int(input())
 c1 = 0
 c2 = 0
