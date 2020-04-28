@@ -1,3 +1,4 @@
+#This code is not a clean solution to the problem, too many if's
 code = input()
 #word = False
 count = 0
